@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+ .top{
+    border-radius: 0px 0px 220px 0px;
+    min-height:200px;
+    background: #f12711;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Stalinist One', cursive;
+    color: aliceblue;
+    
+} 
+.top button{
+    background: #f12711;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Stalinist One', cursive;
+    color: aliceblue;
+    padding: 0px 12px;
+    margin-left:250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: aliceblue;
+}
+.form{
+    padding-top: 20%;
+}
+.dropdown .btn{
+    min-width:200px;
+    border-color:orange;
+    color:orange;
+    background-color:transparent;
+}
+
+ .selectp{
+  
+    border-color:orange;
+    color:orange;
+}
+.option{
+    padding: 50px;
+  
+    color:orange;
+}
+.formitem{
+    color:orange;
+    border-color:orange;
+    margin-left:65px;
+    max-width:200px;
+}
+
+.heading-warehouse{
+    color: orange;
+}
+
+.mainbtn{
+    padding:10px;
+    background: transparent;
+    font-family: 'Stalinist One', cursive;
+    color: black;
+    border:none;
+    border-radius: 50%;
+    margin-top: 50px;
+    border-color: aliceblue;
+    background:orange;
+
+    
+}
+
+.btn-grad {background-image: linear-gradient(to right, #FF512F 0%, #F09819  51%, #FF512F  100%)}
+.btn-grad {
+  
+    border-width: 0px;
+   margin: 10px;
+   padding: 15px 25px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 1px 10px 30px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
